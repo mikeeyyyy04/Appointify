@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Appointify</string>
+    <string name="title_activity_main">Appointify</string>
+    <string name="package_name">dev.estrada.appointify</string>
+    <string name="custom_url_scheme">dev.estrada.appointify</string>
+</resources>

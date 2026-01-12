@@ -1,0 +1,10 @@
+{
+  "appId": "dev.estrada.appointify",
+  "appName": "Appointify",
+  "webDir": "build",
+  "plugins": {
+    "Keyboard": {
+      "resizeOnFullScreen": true
+    }
+  }
+}
